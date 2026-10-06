@@ -13,15 +13,11 @@
 
 ---
 
-### A little about me
+### About me
 
-I enjoy turning ideas into polished web products — from learning tools to interactive visualizations. I like working across the stack and paying attention to the details that make an experience feel clear and enjoyable.
+I’m a BE Computer Engineering student at Cosmos College of Management and Technology, Pokhara University. I enjoy understanding how systems work and turning what I learn into useful projects.
 
-### Selected work
-
-- **[Note Library](https://github.com/Prabin-Wagle/notelibrary)** — a student learning platform with study materials, practice tools, and separate student and admin portals. [Student portal](https://github.com/Prabin-Wagle/notelibrary/tree/student) · [Admin portal](https://github.com/Prabin-Wagle/notelibrary/tree/admin)
-- **[Flood Simulation](https://github.com/Prabin-Wagle/Flood_simulation)** — an interactive flood digital twin for exploring dam-breach scenarios and settlement impact.
-- **[Portfolio](https://prabinwagle.com.np)** — selected work, web experiments, and interactive visuals.
+I build across frontend, backend, and interactive experiences, with interests in education technology, AI, and visual design. I learn best by making, testing, and iterating.
 
 ### In my toolkit
 
